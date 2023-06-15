@@ -8,24 +8,6 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
-img {
-    width: 50px;
-}
-
-.header {
-    max-width: 100vw;
-    height: 70px; 
-    background-color: transparent;
-    position: relative; 
-    display: flex;
-    align-items: center;
-}
-
-.left-section {
-    display: flex;
-    align-items: center;
-}
-
 .thumbnail {
     width: 100%;
 }
@@ -34,10 +16,6 @@ img {
     margin-bottom: 12px;
 }
 
-.search-bar {
-    display: block; 
-   
-}
 .video-title {
     margin-top: 0;
     font-size: 14px;
