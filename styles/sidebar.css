@@ -1,12 +1,13 @@
 .sidebar {
   color: #3e3838;
   position: fixed;
-  width: 72px;
+  width: 80px;
   background-color: rgb(255, 255, 255);
   left: 0;
   bottom: 0;
   top: 70px;
   background-color: #fff;
+  z-index: 200;
 }
 
 .sidebar-info {
@@ -16,6 +17,7 @@
   flex-direction: column;
   align-items: center;
   height: 80px;
+  cursor: pointer;
 }
 
 .sidebar-info:hover {
@@ -24,9 +26,10 @@
 
 .sidebar div {
     font-family: 'Roboto', sans-serif;
-    font-size: 10px;
+    font-size: 11px;
 }
 
 .sidebar-info img {
-  height: 25px;
+  height: 30px;
+  margin-bottom: 10px;
 }
