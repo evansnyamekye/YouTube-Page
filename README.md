@@ -30,7 +30,7 @@
 
 # 📖 [YouTube: Project] <a name="about-project"></a>
 
-**[YouTube: Project]** This is a YouTube website project that was developed with HTML5, CSS3, and Javascript. This website depit the original and famous YouTube.com. The main purpose of building this website was for learning and as well show my coding and desiging skills with regards to professional online web application or development. The website is responsive and have similarities with the original YouTube website. All icons in the left, middle, right and sidebars are the same used in the original youtube.com.  
+**[YouTube: Project]** This is a YouTube website project that was developed with HTML5, CSS3, and Javascript. This website depict the original and famous YouTube.com. The main purpose of building this website was for learning and as well show my coding and desiging skills with regards to professional online web application or development. The website is responsive and have similarities with the original YouTube website. All icons in the left, middle, right and sidebars are the same used in the original youtube.com.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
