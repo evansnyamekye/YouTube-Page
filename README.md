@@ -48,7 +48,7 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- Fully responsive portfolio built with pure HTML & CSS
+- Fully responsive YouTube-WebPage built with pure HTML & CSS
 - Specialized resposnive effects 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -59,7 +59,7 @@
 To get a local copy up and running, follow these steps:
 - Open your Terminal
 - Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone (https://github.com/evansnyamekye/Capstone-PR.git)
+- [Copy & Paste] git clone https://github.com/evansnyamekye/YouTube-Page.git
 
 ### Prerequisites
 
@@ -72,13 +72,13 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone  https: ([https://github.com/evansnyamekye/Capstone-PR.git](https://github.com/evansnyamekye/Capstone-PR.git))
+- git clone https://github.com/evansnyamekye/YouTube-Page.git
 Example commands:
 
 ```sh
   cd my-folder
 
-  git clone https:(https://github.com/evansnyamekye/Capstone-PR.git)
+  git clone https://github.com/evansnyamekye/YouTube-Page.git
 
 
 
@@ -100,9 +100,9 @@ To run tests, run the following command:
 
 This project is deployed by using Github tools. 
 
-### Online-Link (Complete website)
+### Online-Link (Youtube README.md Utilities)
 
-- https://evansnyamekye.github.io/Capstone-PR/index.html
+- https://evansnyamekye.github.io/YouTube-Page/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -112,11 +112,11 @@ This project is deployed by using Github tools.
 
 To run the project, execute the following command by clonning to your machine:
 
-https://evansnyamekye.github.io/Capstone-PR/index.html
+https://github.com/evansnyamekye/YouTube-Page.git
 Example command:
 
 ```sh
-  git clone https:(https://github.com/evansnyamekye/Capstone-PR.git)](https://github.com/evansnyamekye/Capstone-PR.git)
+  git clone 
 ```
 
 
