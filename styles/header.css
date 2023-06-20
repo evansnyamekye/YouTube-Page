@@ -99,6 +99,17 @@
   flex-shrink: 0;
 }
 
+@media(max-width: 765px){
+  .middle-section {
+    display: none;
+  }
+
+  .right-section {
+    display: none;
+  }
+}
+
+
 .upload-icon {
   height: 24px;
 }
