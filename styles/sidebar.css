@@ -22,14 +22,15 @@
 
 .sidebar-info:hover {
   background-color: rgb(248, 248, 248);
-} 
+}
 
 .sidebar div {
-    font-family: 'Roboto', sans-serif;
-    font-size: 11px;
+  font-family: "Roboto", sans-serif;
+  font-size: 11px;
 }
 
 .sidebar-info img {
   height: 30px;
   margin-bottom: 10px;
 }
+
